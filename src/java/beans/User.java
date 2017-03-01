@@ -12,7 +12,10 @@ package beans;
 public class User {
     User(){}
     //dalia
-    
+        private int id;
+        private String name;
+        private int age;
+        private float salary;
     //end dalia
     //dina
     
