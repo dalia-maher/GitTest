@@ -19,6 +19,13 @@ public class User {
     //end dalia
     //dina
     
-    
+    public void setId(int id){}
+    public void setName(String name){}
+    public void setAge(int age){}
+    public void setSalary(float salary){}
+    public void getId(){}
+    public void getName(){}
+    public void getAge(){}
+    public void getSalary(){}
     //end dina
 }
