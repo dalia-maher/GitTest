@@ -15,7 +15,6 @@ public class User {
     
     //end dalia
     //dina
-    
     public void setId(int id){}
     public void setName(String name){}
     public void setAge(int age){}
