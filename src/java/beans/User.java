@@ -10,5 +10,12 @@ package beans;
  * @author Dalia
  */
 public class User {
+    User(){}
+    //dalia
     
+    //end dalia
+    //dina
+    
+    
+    //end dina
 }
